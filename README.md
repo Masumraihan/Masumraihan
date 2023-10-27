@@ -13,7 +13,7 @@ Greetings! I'm Masum Raihan, a dedicated web developer with a passion for creati
 <h3 align="center">Contact me:</h3>
 <p align="center">mdmasumraihan1@gmail.com</p>
 <p align="center">
-<a href="https://linkedin.com/in/md-masum-raihan-35b22b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-masum-raihan-35b22b1ab" height="30" width="40" /></a>
+<a align="center" href="https://linkedin.com/in/md-masum-raihan-35b22b1ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-masum-raihan-35b22b1ab" height="30" width="40" /></a>
 <a href="https://fb.com/mdmasum.raihan.378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmasum.raihan.378" height="30" width="40" /></a>
 <a href="https://discord.gg/masumraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="masumraihan" height="30" width="40" /></a>
 </p>
