@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Masum Raihan</h1>
 <h3 align="center">I am a Fullstack Developer</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="justify">Hey there! I'm a full-stack developer passionate about crafting seamless digital experiences. From UI design to backend infrastructure, I thrive on pushing boundaries and leveraging new tech stacks 💻 to innovate. Let's sculpt the future of technology together, one line of code at a time! 🛠️</p>
 
 <div align="center" >
 	<img width="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
