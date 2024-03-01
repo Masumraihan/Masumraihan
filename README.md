@@ -97,7 +97,7 @@
 
 ## Social Links
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/masumraihan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masum-raihan-35b22b1ab/)
 [![Facebook](https://img.shields.io/badge/Facebook-%23288EF1.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdmasum.raihan.378/)
 [![Telegram](https://img.shields.io/badge/Telegram-%231E92F3.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MasumRaihan1)
