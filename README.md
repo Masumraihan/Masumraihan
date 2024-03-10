@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <h1 align="center">Hi 👋, I'm Masum Raihan</h1>
 <h3 align="center">I am a Fullstack Developer</h3>
-<p align="center">Hey there! Technology has changed our world big time 🌐, and I've always been curious about how it works. I've been into Programming stuff, and I love playing around with different tech things 💻. For me, it's not just about making Web Applications; it's about creating cool stuff and shaping the future with code and creativity. Let's build some awesome things together, one line of code at a time! 🛠️</p>
+<p align="center">Hey there! Technology has changed our world big time 🌐, and I've always been curious about how it works. I've been into Programming stuff, and I love playing around with different tech things 💻. For me, it's not just about making Web Applications, it's about creating cool stuff and shaping the future with code and creativity. Let's build some awesome things together, one line of code at a time! 🛠️</p>
 
 <div align="center" >
 	<img width="40" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/>
