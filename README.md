@@ -75,6 +75,24 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masumraihan&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Masumraihan's Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Masumraihan&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Masumraihan's Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masumraihan&theme=radical&hide_border=true" alt="Masumraihan's Streak" />
+</div>
+
+<br/>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Social Links
