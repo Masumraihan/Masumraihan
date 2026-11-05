@@ -173,7 +173,7 @@ Currently working at **Sparktech Agency**, where I manage multiple projects unde
     </td>
     <td width="50%" valign="top">
       <h3>📌 More on GitHub</h3>
-      <p>Explore my pinned repositories below and the full list on my profile for more experiments, tools and side projects.</p>
+      <p>Explore my public repositories for more experiments, tools and side projects.</p>
       <br />
       <a href="https://github.com/Masumraihan?tab=repositories">🔗 View all repositories</a>
     </td>
@@ -191,17 +191,9 @@ Currently working at **Sparktech Agency**, where I manage multiple projects unde
 
 <img src="https://streak-stats.demolab.com/?user=Masumraihan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Masumraihan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-
 </div>
 
-<details>
-<summary><b>📈 Contribution activity graph</b></summary>
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Masumraihan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</details>
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/Masumraihan" alt="Contribution chart" />
 
 ---
 
